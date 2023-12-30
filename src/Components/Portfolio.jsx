@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Power BI Health Care Study Case 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Power BI Analytical Case of a Hospital & And multiple other Case studies with all the dashboard show casing detailed analysis.",
+    url: "#",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Temperature & Humidity Detection with Arduino 🤖 ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Creating a circuit with a baseline temperature of 20 C. Temperature and Humidity Sensor",
+    url: "https://github.com/SarahSidAhmed/Temperature-Humidity-Sensor.git",
   },
   {
-    title: "My Resume Site",
+    title: "NVIDIA Deep Learning & Machine Learnig fundamentals 📗",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An introduction to Deep Learning basics and Machine Learning fundemantals with NVIDIA Module.",
+    url: "https://github.com/SarahSidAhmed/NVIDIA_Creating-an-ML-Model.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Netflix Movie Application UI UPGRADE 📲",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Upgrading the UI UX of Netflix Movies Oriented App with Android Studio",
+    url: "https://github.com/SarahSidAhmed/NetflixMoviesApp.git",
   },
 ];
 
